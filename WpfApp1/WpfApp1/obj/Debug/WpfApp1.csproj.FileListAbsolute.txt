@@ -1,0 +1,12 @@
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.dll
+E:\300GB_HDD\data\Project\make\F#\fs_hello3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.dll
